@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Module> 
 <ModulePrefs title="Home Header"/> 
-<Content type="html"><![CDATA[	
+<Content type="html"><![CDATA[
 <script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
@@ -30,7 +30,7 @@ nav{
 }
 ul.nav{
 	background-color:#CBCBCB;
-	max-width: 1169px; 
+	max-width: 1185px; 
 	margin-right: auto;
 	margin-left: auto;
 	width:100%;
@@ -39,7 +39,7 @@ ul.nav{
 padding:0px;
 }
 nav>.container{
-	max-width:1169px;
+	max-width:1185px;
 	background-color:#fff;
 	padding-right:0px;
 	padding-left:0px;
@@ -51,11 +51,11 @@ nav>.container{
   font-size: 13px;
 }
 #myNavbar{
-	max-width: 1169px;
+	max-width: 1185px;
 	width: 100%;
 	border: none;
 	position:relative;
-	margin-bottom: 29px;
+	margin-bottom: 15px;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
 	background-image: none;
@@ -78,13 +78,13 @@ font-size:13px;
   color:white;
 }
 .main_wrapper{
-  max-width: 1166px;
+  max-width: 1185px;
   margin-right: auto;
   margin-left: auto;
   background-color: #f0f0f0;
 }
 .carousel-inner img{
-  max-width: 1166px;
+  max-width: 1185px;
   width: 100%;
   max-Height: 375px;
 }
