@@ -2,7 +2,7 @@
 <Module> 
 <ModulePrefs title="Home Header"/> 
 <Content type="html"><![CDATA[
-<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
+	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap-theme.min.css">
@@ -23,7 +23,7 @@ a{
 font-family:'allerregular';
 }
 nav{
-	max-width: 1169px;
+	max-width: 1185px;
 	margin-left: auto;
 	margin-right: auto;
 	border-color:none;
@@ -153,12 +153,7 @@ font-size:13px;
         </div>
     </div>
     <!-- Carousel nav -->
-    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
-    <a class="carousel-control right" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
+
 </div>
 ]]></Content> 
 </Module>
