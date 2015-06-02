@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Module> 
+<ModulePrefs title="Home Header"/> 
+<Content type="html"><![CDATA[	
+<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
+	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap-theme.min.css">
+	<style>
+		@font-face {
+		font-family: 'allerregular';
+		src: url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.eot');
+		src: url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.woff2') format('woff2'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.woff') format('woff'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.ttf') format('truetype'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.svg#allerregular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+
+}
+a{
+font-family:'allerregular';
+}
+nav{
+	max-width: 1169px;
+	margin-left: auto;
+	margin-right: auto;
+	border-color:none;
+}
+ul.nav{
+	background-color:#CBCBCB;
+	max-width: 1169px; 
+	margin-right: auto;
+	margin-left: auto;
+	width:100%;
+}
+#navbarCollapse{
+padding:0px;
+}
+nav>.container{
+	max-width:1169px;
+	background-color:#fff;
+	padding-right:0px;
+	padding-left:0px;
+	width:100%;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #666666;
+  font-weight: 600;
+  font-size: 13px;
+}
+#myNavbar{
+	max-width: 1169px;
+	width: 100%;
+	border: none;
+	position:relative;
+	margin-bottom: 29px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-image: none;
+	color:#FFF;
+	background-color:#DE4989;
+    }
+li.active>a{
+  background-image: none;
+  background-color: #DE4989;
+  color: white;
+}
+li>a{
+color:#666666;
+font-weight:600;
+font-size:13px;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  background-image: none;
+  background-color: #DE4989;
+  color:white;
+}
+.main_wrapper{
+  max-width: 1166px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.carousel-inner img{
+  max-width: 1166px;
+  width: 100%;
+  max-Height: 375px;
+}
+</style>
+<div class = "main_wrapper">
+    <nav id="myNavbar" class="navbar navbar-defaulT" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="nav navbar-nav">
+                    <li class = "active"><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
+                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DEPARTMENTS <span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/finance&#39;;_top">Finance</a></li>	
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/commercial&#39;;_top">Commercial</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/human-resource&#39;;_top">Human Resource</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/marketing&#39;;_top">Marketing</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/md-ceo&#39;;_top">MD & CEO</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/information-systems&#39;;_top">Information Systems</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/revenue-management&#39;;_top">Revenue Managemant</a></li>						 
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/operations&#39;;_top">Operations</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/safety-and-security&#39;;_top">Safety and Security</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/quality&#39;;_top">Quality</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/techni&#39;;_top">Technical</a></li>
+														 <li><a href="javascript:window.parent.location=&#39;&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/customer-servicev;_top">Customer Service</a></li>
+                       
+								</ul>
+                     </li>
+                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/employee-directory&#39;;_top">EMPLOYEE DIRECTORY</a></li>
+					<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/research-and-innovation&#39;;_top">RESEARCH & INNOVATION</a></li>
+                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/social-hub&#39;;_top">SOCIAL HUB</a></li>
+                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/gallery&#39;;_top">GALLERY</a></li>
+					<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/news&#39;;_top">NEWS</a></li>
+                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/for&#39;;_top">FORUMS</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+	<div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel"
+    <!-- Carousel items -->
+    <div class="carousel-inner">
+        <div class="item active">
+           <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/jambojet.jpg"/></p>
+        </div>
+        <div class="item">
+            
+              <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/now.png"/></p>
+        </div>
+        <div class="item">
+            <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/board.jpg"/></p>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel nav -->
+    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="carousel-control right" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+</div>
+]]></Content> 
+</Module>
