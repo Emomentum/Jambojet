@@ -81,11 +81,18 @@ font-size:13px;
   max-width: 1166px;
   margin-right: auto;
   margin-left: auto;
+  background-color: #f0f0f0;
 }
 .carousel-inner img{
   max-width: 1166px;
   width: 100%;
   max-Height: 375px;
+}
+.carousel-control.right{
+	background-image:none;
+}
+.carousel-control.left{
+	background-image:none;
 }
 </style>
 <div class = "main_wrapper">
@@ -134,14 +141,14 @@ font-size:13px;
     <!-- Carousel items -->
     <div class="carousel-inner">
         <div class="item active">
-           <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/jambojet.jpg"/></p>
+           <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/jambojet.jpg"/></p>
         </div>
         <div class="item">
             
-              <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/now.png"/></p>
+              <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/now.png"/></p>
         </div>
         <div class="item">
-            <p><img src = "https://raw.githubusercontent.com/Mangweli/Jambojet/master/images/slider/board.jpg"/></p>
+            <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/board.jpg"/></p>
             </div>
         </div>
     </div>
