@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Module> 
-<ModulePrefs title="Home Header"/> 
-<Content type="html"><![CDATA[
+<ModulePrefs title="finance Header" /> 
+<Content type="html"><![CDATA[	
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
@@ -17,7 +17,6 @@
 			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.svg#allerregular') format('svg');
 		font-weight: normal;
 		font-style: normal;
-
 }
 a{
 font-family:'allerregular';
@@ -82,25 +81,7 @@ font-size:13px;
   background-color: #DE4989;
   color:white;
 }
-.main_wrapper{
-  max-width: 1185px;
-  margin-right: auto;
-  margin-left: auto;
-  background-color: #f0f0f0;
-}
-.carousel-inner img{
-  max-width: 1185px;
-  width: 100%;
-  max-Height: 375px;
-}
-.carousel-control.right{
-	background-image:none;
-}
-.carousel-control.left{
-	background-image:none;
-}
 </style>
-<div class = "main_wrapper">
     <nav id="myNavbar" class="navbar navbar-defaulT" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="container">
@@ -114,8 +95,8 @@ font-size:13px;
             </div>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="nav navbar-nav">
-                    <li class = "active"><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
-                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DEPARTMENTS <span class="caret"></span></a>
+                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
+                    <li class="dropdown active"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DEPARTMENTS <span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
 														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/finance&#39;;_top">Finance</a></li>	
 														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/commercial&#39;;_top">Commercial</a></li>
@@ -142,26 +123,10 @@ font-size:13px;
             </div>
         </div>
     </nav>
-	<div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel"
-    <!-- Carousel items -->
-    <div class="carousel-inner">
-        <div class="item active">
-           <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/jambojet.jpg"/></p>
-        </div>
-        <div class="item">
-            
-              <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/now.png"/></p>
-        </div>
-        <div class="item">
-            <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/board.jpg"/></p>
-            </div>
-        </div>
-    </div>
-    <!-- Carousel nav -->
-<ul class="breadcrumb">
-    <li style = "color:#E22384">You are here >> <a href="#">Home</a></li>
+	<ul class="breadcrumb">
+    <li style = "color:#E22384">You are here >> <a href="#">Finance</a></li>
 	<li><a href="#"></a></li>
 </ul>
-</div>
+	
 ]]></Content> 
 </Module>
