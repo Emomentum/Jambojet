@@ -23,14 +23,14 @@ a{
 font-family:'allerregular';
 }
 nav{
-	max-width: 1185px;
+	max-width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
 	border-color:none;
 }
 ul.nav{
 	background-color:#CBCBCB;
-	max-width: 1185px; 
+	max-width: 1200px; 
 	margin-right: auto;
 	margin-left: auto;
 	width:100%;
@@ -39,7 +39,7 @@ ul.nav{
 padding:0px;
 }
 nav>.container{
-	max-width:1185px;
+	max-width:1200px;
 	background-color:#fff;
 	padding-right:0px;
 	padding-left:0px;
@@ -51,7 +51,7 @@ nav>.container{
   font-size: 13px;
 }
 #myNavbar{
-	max-width: 1185px;
+	max-width: 1200px;
 	width: 100%;
 	border: none;
 	position:relative;
@@ -83,22 +83,12 @@ font-size:13px;
   color:white;
 }
 .main_wrapper{
-  max-width: 1185px;
+  max-width: 1200px;
   margin-right: auto;
   margin-left: auto;
   background-color: #f0f0f0;
 }
-.carousel-inner img{
-  max-width: 1185px;
-  width: 100%;
-  max-Height: 375px;
-}
-.carousel-control.right{
-	background-image:none;
-}
-.carousel-control.left{
-	background-image:none;
-}
+
 </style>
 <div class = "main_wrapper">
     <nav id="myNavbar" class="navbar navbar-defaulT" role="navigation">
