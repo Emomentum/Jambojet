@@ -114,7 +114,7 @@ font-size:13px;
             </div>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
+                    <li class = "active"><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DEPARTMENTS <span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
 														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/finance&#39;;_top">Finance</a></li>	
@@ -136,15 +136,30 @@ font-size:13px;
 					<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/research-and-innovation&#39;;_top">RESEARCH & INNOVATION</a></li>
                     <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/social-hub&#39;;_top">SOCIAL HUB</a></li>
                     <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/gallery&#39;;_top">GALLERY</a></li>
-					<li class = "active"><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/news&#39;;_top">NEWS</a></li>
+					<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/news&#39;;_top">NEWS</a></li>
                     <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/for&#39;;_top">FORUMS</a></li>
                 </ul>
             </div>
         </div>
     </nav>
+	<div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel"
+    <!-- Carousel items -->
+    <div class="carousel-inner">
+        <div class="item active">
+           <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/jambojet.jpg"/></p>
+        </div>
+        <div class="item">
+            
+              <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/now.png"/></p>
+        </div>
+        <div class="item">
+            <p><img src = "https://raw.githubusercontent.com/Emomentum/Jambojet/master/images/slider/board.jpg"/></p>
+            </div>
+        </div>
+    </div>
     <!-- Carousel nav -->
 <ul class="breadcrumb">
-    <li style = "color:#E22384">You are here >> <a href="#">News</a></li>
+    <li style = "color:#E22384">You are here >> <a href="#">Home</a></li>
 	<li><a href="#"></a></li>
 </ul>
 </div>
