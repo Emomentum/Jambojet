@@ -22,6 +22,9 @@
 a{
 font-family:'allerregular';
 }
+#sites-chrome-header .sites-header-nav a{
+font-weight:700;
+}
 nav{
 	max-width: 1185px;
 	margin-left: auto;
