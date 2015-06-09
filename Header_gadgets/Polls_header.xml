@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Module> 
+<ModulePrefs title="polls Header" /> 
+<Content type="html"><![CDATA[	
+		<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
+	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap-theme.min.css">
+	<style>
+		@font-face {
+		font-family: 'allerregular';
+		src: url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.eot');
+		src: url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.woff2') format('woff2'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.woff') format('woff'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.ttf') format('truetype'),
+			url('https://googledrive.com/host/0B7ZE3sUNKldDfmdzUGtYOEh1eWlpWWduOUkzaVQ5Wm9YWVNheFNndUJucGt2bnRoVEVaMzA/aller_rg-webfont.svg#allerregular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+
+}
+a{
+font-family:'allerregular';
+}
+nav{
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	border-color:none;
+}
+ul.nav{
+	background-color:#CBCBCB;
+	max-width: 1200px; 
+	margin-right: auto;
+	margin-left: auto;
+	width:100%;
+}
+#navbarCollapse{
+padding:0px;
+}
+nav>.container{
+	max-width:1200px;
+	background-color:#fff;
+	padding-right:0px;
+	padding-left:0px;
+	width:100%;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #666666;
+  font-weight: 600;
+  font-size: 13px;
+}
+#myNavbar{
+	max-width: 1200px;
+	width: 100%;
+	border: none;
+	position:relative;
+	margin-bottom: 15px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-image: none;
+	color:#FFF;
+	background-color:#DE4989;
+    }
+li.active>a{
+  background-image: none;
+  background-color: #DE4989;
+  color: white;
+}
+li>a{
+color:#666666;
+font-weight:600;
+font-size:13px;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  background-image: none;
+  background-color: #DE4989;
+  color: white;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  background-image: none;
+  background-color: #DE4989;
+  color:white;
+}
+.main_wrapper{
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f0f0f0;
+}
+
+</style>
+<div class = "main_wrapper">
+    <!-- Carousel nav -->
+<ul class="breadcrumb">
+    <li style = "color:#E22384">You are here >> <a href="#">Polls</a></li>
+	<li><a href="#"></a></li>
+</ul>
+</div>
+	
+]]></Content> 
+</Module>
