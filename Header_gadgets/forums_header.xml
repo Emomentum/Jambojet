@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Module> 
-<ModulePrefs title="Home Header"/> 
+<ModulePrefs title="Forums Header"/> 
 <Content type="html"><![CDATA[
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
