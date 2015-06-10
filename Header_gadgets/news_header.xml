@@ -101,47 +101,6 @@ font-size:13px;
 }
 </style>
 <div class = "main_wrapper">
-    <nav id="myNavbar" class="navbar navbar-defaulT" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect&#39;;_top">HOME</a></li>                       
-                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DEPARTMENTS <span class="caret"></span></a>
-								<ul class="dropdown-menu" role="menu">
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/finance&#39;;_top">Finance</a></li>	
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/commercial&#39;;_top">Commercial</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/human-resource&#39;;_top">Human Resource</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/marketing&#39;;_top">Marketing</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/md-ceo&#39;;_top">MD & CEO</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/information-systems&#39;;_top">Information Systems</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/revenue-management&#39;;_top">Revenue Managemant</a></li>						 
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/operations&#39;;_top">Operations</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/safety-and-security&#39;;_top">Safety and Security</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/quality&#39;;_top">Quality</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/techni&#39;;_top">Technical</a></li>
-														 <li><a href="javascript:window.parent.location=&#39;&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/departments/customer-servicev;_top">Customer Service</a></li>
-                       
-								</ul>
-                     </li>
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/employee-directory&#39;;_top">EMPLOYEE DIRECTORY</a></li>
-					<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/research-and-innovation&#39;;_top">RESEARCH & INNOVATION</a></li>
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/social-hub&#39;;_top">SOCIAL HUB</a></li>
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/gallery&#39;;_top">GALLERY</a></li>
-					<li class = "active"><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/news&#39;;_top">NEWS</a></li>
-                    <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/for&#39;;_top">FORUMS</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
     <!-- Carousel nav -->
 <ul class="breadcrumb">
     <li style = "color:#E22384">You are here >> <a href="#">News</a></li>
