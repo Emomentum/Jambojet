@@ -93,7 +93,7 @@ font-size:13px;
 <div class = "main_wrapper">
     <!-- Carousel nav -->
 <ul class="breadcrumb">
-    <li style = "color:#E22384">You are here >> <a href="#">Social Hub</a></li>
+    <li style = "color:#E22384">You are here >> <a href="#">Shout Out</a></li>
 	<li><a href="#"></a></li>
 </ul>
 </div>
