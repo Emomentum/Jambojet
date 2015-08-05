@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Module> 
+<ModulePrefs title="Home Header"/> 
+<Content type="html"><![CDATA[
 <html><head>
 <script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 <script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
@@ -135,3 +139,5 @@ font-size:13px;
 
 </body>
 </html>
+]]></Content> 
+</Module>
