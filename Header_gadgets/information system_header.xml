@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Module> 
-<ModulePrefs title="information system Header" /> 
+<ModulePrefs title="Information System Header" /> 
 <Content type="html"><![CDATA[	
 		<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
 	<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
@@ -93,7 +93,7 @@ font-size:13px;
 <div class = "main_wrapper">
     <!-- Carousel nav -->
 <ul class="breadcrumb">
-    <li style = "color:#E22384">You are here >> <a href="#">Information system Department</a></li>
+    <li style = "color:#E22384">You are here >> <a href="#">Information System Department</a></li>
 	<li><a href="#"></a></li>
 </ul>
 </div>
