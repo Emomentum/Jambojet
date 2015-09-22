@@ -80,7 +80,7 @@ body{
               <div class="bg_white padder_m" style = "margin-top:27px;">
                 <div class = "container" style = "width:100%">
 				<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-nairobi&#39;;_top">
-			<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/Nairobi.jpg');">
+			<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/nairobi.jpg');">
 			<p>Nairobi</p>
 		</div>
 		</a>
@@ -90,7 +90,7 @@ body{
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-kisumu&#39;;_top">
-		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/Kisumu.jpg');">
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/kisumu.jpg');">
 		<p>Kisumu</p>
 		</div>
 		</a>
@@ -105,7 +105,7 @@ body{
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-lamu&#39;;_top">
-		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/Lamu.jpg')";>
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/lamu.jpg')";>
 		<p>Lamu</p>
 		</div>
 		</a>
