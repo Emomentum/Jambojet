@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="CSR" height="600px" width="500px"/>
+    <Content type="html">
+        <![CDATA[
+
+<html>
+<head>
+<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/jquery.min.js"></script>
+<script type="text/javascript" src="https://sites.google.com/a/jambojet.com/jambojetconnect/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://sites.google.com/a/jambojet.com/jambojetconnect/storage/bootstrap-theme.min.css">
+	<Style>
+	.location{
+	float:left;
+	width:300px;
+	height:300px;
+	margin:20px;
+	background-image:url('nairobi.jpg');
+	background-color:black;
+	background-size:cover;
+	}
+	.location img {
+	width:200px;
+	height:200px;
+	}
+	.location:hover{
+	
+	background-image:url('nairobi.jpg');
+	opacity:0.2;
+	color:#8A4ADF;
+	}
+	p{
+	     background-color: white;
+    font-size: 41px;
+    text-align: center;
+	    margin-top: 51px;
+	color: #E00080;
+    opacity: 0.6;
+	}
+	a:hover{
+	color:#8A4ADF;
+	}
+	@font-face {
+    font-family: 'allerregular';
+    src: url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.eot');
+    src: url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.woff') format('woff'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.svg#allerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+p{
+	font-family: 'allerregular';
+	}
+body{
+	background-color:#F0F0F0;
+	font-family:'allerregular';
+}
+.main_wrapper{
+  max-width: 1185px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f0f0f0;
+  }
+	</style>
+</head>
+
+<body style ="background-color:#F0F0F0;max-width:1185px;">
+   <div class = "main_wrapper" style = "  max-width: 1185px;margin-left: auto;margin-right: auto;">
+	<section class=" col-lg-12 col-md-12 col-sm-12" style = "padding-left:0px">
+    <div class="container" style = "width:100%;max-width: 1185;background-color: #fff;border: 1px #e1e1e1 solid;margin-bottom: 20px;">
+	<div class="row " data-appear-animation="fadeInLeft"> 
+          <!--item portfolio-->
+          <div class="col-lg-12 col-md-12 col-sm-12 m_xs_bottom_30 m_bottom_50" data-appear-animation="fadeInLeft">
+            <div class="">
+              <div class="bg_white padder_m">
+                	<div class = "container">
+				<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-nairobi&#39;;_top">
+			<div class = "location" style = "background-image:url('nairobi.jpg');">
+			<p>Nairobi</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-mombasa&#39;;_top">
+		<div class = "location" style = "background-image:url('mombasa.jpg');">
+		<p>Mombasa</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-kisumu&#39;;_top">
+		<div class = "location" style = "background-image:url('kisumu.jpg');">
+		<p>Kisumu</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-eldoret&#39;;_top">
+		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<p>Eldoret</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-ukunda&#39;;_top">
+		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<p>Ukunda</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-lamu&#39;;_top">
+		<div class = "location" style = "background-image:url('lamu.jpg')";>
+		<p>Lamu</p>
+		</div>
+		</a>
+		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-malindi&#39;;_top">
+		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<p>Malindi</p>
+		</div>
+		</a>
+	</div>
+              </div>
+            </div>
+          </div>
+        </div>
+		</div>
+		 </section>
+
+      </div>
+      </body>
+</html>
+]]>
+    </Content>
+</Module>
