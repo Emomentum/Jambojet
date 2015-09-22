@@ -16,7 +16,7 @@
 	width:234px;
 	height:300px;
 	margin:20px;
-	background-image:url('nairobi.jpg');
+	background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/nairobi.jpg');
 	background-color:black;
 	background-size:cover;
 	}
@@ -26,7 +26,7 @@
 	}
 	.location:hover{
 	
-	background-image:url('nairobi.jpg');
+	background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/nairobi.jpg');
 	opacity:0.2;
 	color:#8A4ADF;
 	}
@@ -80,37 +80,37 @@ body{
               <div class="bg_white padder_m" style = "margin-top:27px;">
                 <div class = "container" style = "width:100%">
 				<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-nairobi&#39;;_top">
-			<div class = "location" style = "background-image:url('nairobi.jpg');">
+			<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/nairobi.jpg');">
 			<p>Nairobi</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-mombasa&#39;;_top">
-		<div class = "location" style = "background-image:url('mombasa.jpg');">
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/mombasa.jpg');">
 		<p>Mombasa</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-kisumu&#39;;_top">
-		<div class = "location" style = "background-image:url('kisumu.jpg');">
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/kisumu.jpg');">
 		<p>Kisumu</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-eldoret&#39;;_top">
-		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/ukunda.jpg')";>
 		<p>Eldoret</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-ukunda&#39;;_top">
-		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/ukunda.jpg')";>
 		<p>Ukunda</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-lamu&#39;;_top">
-		<div class = "location" style = "background-image:url('lamu.jpg')";>
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/lamu.jpg')";>
 		<p>Lamu</p>
 		</div>
 		</a>
 		<a href = "javascript:window.parent.location=&#39;https://sites.google.com/a/jambojet.com/jambojetconnect/csr/csr-malindi&#39;;_top">
-		<div class = "location" style = "background-image:url('ukunda.jpg')";>
+		<div class = "location" style = "background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/ukunda.jpg')";>
 		<p>Malindi</p>
 		</div>
 		</a>
