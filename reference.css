@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'allerregular';
+    src: url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.eot');
+    src: url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.woff') format('woff'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/Emomentum/Jambojet/master/fonts/aller_rg-webfont.svg#allerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+	background-color:#F0F0F0;
+    font-family:'allerregular';
+}
+p{
+	font-family: 'allerregular';
+	}
+a{
+font-family:'allerregular';
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th
+{
+border-top:none;
+}
+.table
+{
+padding-left:50px;
+border-left:none;
+border-right:none;
+border-bottom: 1px solid #ddd;
+border-top: 1px solid #ddd;
+}
+.txtArea
+{
+  height: 30px;
+  width: 377px;
+  }
+ .txtAreaDate
+{
+  height: 30px;
+  }
+  .reason
+  {
+  height: 100px;
+  width: 377px;
+  }
+  .submit
+  {
+  margin-left:215px;
+  }
+  .btn-primary{
+  outline:0 none !important;
+  }
+  .modal-footer button.btn-default{
+  color:#fff;
+  font-size:14px;
+  }
+  .btn-primary:focus{
+  outline:0 none;
+  }
+  .btn-primary:hover{
+  outline:0 none;
+  }
+  .btn-primary:active{
+  outline:0 none;
+  }
+  .modal-footer button.btn{
+  background-color: #E0317E;
+  border:none !important;
+  }
+  .modal-footer button.btn:hover{
+  background-color: #E0317E;
+  border:none !important;
+  }
+  .modal-footer button.btn:active{
+  background-color: #E0317E;
+  border:none !important;
+  }
+   .modal-footer button.btn:focus{
+  background-color: #E0317E;
+  border:none !important;
+  }
+  .button {
+    border-radius: 6px;
+   background: #E0317E;
+   color: #fff;
+   padding: 10px 75px;
+   }
+.button:hover {
+   border-top-color: #E0317E;
+   background: #E0317E;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #E0317E;
+   background: #E0317E;
+   }
+div.staff_details input[type="text"]{
+       border: 0px;
+    color: #E0317E;
+   }
