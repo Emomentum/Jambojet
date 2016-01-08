@@ -3,7 +3,8 @@
     <ModulePrefs title="Timer CSR" height="150px" width="100px"/>
     <Content type="html">
         <![CDATA[
-<iframe src="https://freesecure.timeanddate.com/countdown/i50jco7s/n170/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cacfff/cpcfff/pce0317e/tcfff/fs100/szw320/szh135/tatTime%20left/tacfff/tptTime%20since%20Event%20started%20in/tpcfff/mace0317e/mpcfff/iso2016-01-15T00:00:00/pl20/pr20/pt18/pb18" allowTransparency="true" frameborder="0" width="144" height="93"></iframe>
- ]]>
+<iframe src="https://freesecure.timeanddate.com/countdown/i50jco7s/n170/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cacfff/cpcfff/pce0317e/tcfff/fs100/szw320/szh135/tatTime%20left%20for%20submission/tacfff/tptTime%20since%20submission%20deadline/tpcfff/mace0317e/mpcfff/iso2016-01-15T00:00:00/pl20/pr20/pt18/pb18" allowTransparency="true" frameborder="0" width="144" height="93"></iframe>
+
+		]]>
     </Content>
 </Module>
