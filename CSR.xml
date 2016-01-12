@@ -15,7 +15,7 @@
 	float:left;
 	width:234px;
 	height:300px;
-	margin:20px;
+	margin:19px;
 	background-image:url('https://cdn.rawgit.com/Emomentum/Jambojet/master/Nairobi.jpg');
 	background-color:#E00080;
 	background-size:cover;
